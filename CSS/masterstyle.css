@@ -3,5 +3,41 @@
     margin: 0;
     color: rgb(2, 2, 2);
     text-align: center;
-    
+    background-color: #fff87f;
+}
+.main-container{
+    border: 6px solid rgb(10, 107, 67);
+    border-radius: 25px;
+    margin: 3rem;
+    background-color: rgb(2, 2, 2);
+}
+nav{
+    border: 6px solid #66D7D1;
+    margin: 2rem;
+    border-radius: 10px;
+}
+article{
+    border: 6px solid #66D7D1;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 3rem;
+
+}
+aside{
+    border: 6px solid #66D7D1;
+    border-radius: 25px;
+    display: inline-flex;
+    margin: 3rem;
+}
+section{
+    border: 6px solid #66D7D1;
+    border-radius: 25px;
+    display: inline-flex;
+    margin: 1rem;
+}
+footer{
+    border: 3px solid #66D7D1;
+    border-radius: 10px;
+    display:inline-flexbox;
+    margin: 0.5rem;
 }
